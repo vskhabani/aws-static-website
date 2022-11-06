@@ -1,4 +1,4 @@
-- To Host a simple webpage on the AWS instance clone the repo inside the
+- To Host a simple webpage on the AWS EC2 instance clone the repo inside the
 instance using command.
 
 `git clone https://github.com/vskhabani/aws-static-website.git`
