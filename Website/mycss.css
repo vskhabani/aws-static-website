@@ -1,0 +1,8 @@
+.imglogo{width: 90%;
+}
+@media(max-width: 420px){
+
+.imglogo{width: 100%;
+align-items: center;}
+
+}

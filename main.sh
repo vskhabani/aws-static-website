@@ -3,5 +3,5 @@ yum install httpd -y
 #start httpd 
 service httpd start
 
-#copy index.html to /var/www/html
-cp ./index.html /var/www/html/
+#copy website code to /var/www/html location
+cp -r ./Website/* /var/www/html/
